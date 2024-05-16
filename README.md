@@ -12,4 +12,4 @@ Este repositorio proporciona una configuración básica para trabajar con Apache
 1. Clona este repositorio:
 
    ```bash
-   git clone URL_DEL_REPOSITORIO
+   git clone https://github.com/JESUS3928CF/platilla_de_airflow_con_docker.git
